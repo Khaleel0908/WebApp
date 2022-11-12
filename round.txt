@@ -1,4 +1,0 @@
-circle is round 
-circle is up to date
-GIT HUB IS A STORES this information in repository
-
